@@ -11,7 +11,7 @@ Md Majedur Rahman's personal portfolio website, showcasing skills, projects, and
 
 ## Technologies Used
 
-- **HTML, CSS, JavaScript**
+- **HTML, CSS, JavaScript, Tailwind CSS**
 
 ## License
 
